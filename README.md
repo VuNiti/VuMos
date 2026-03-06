@@ -3,7 +3,7 @@ VuMos Models series running in VuNiti App for Windows MacOS Linux Android iOS
 
 ![VuNiti Logo](images/VuNiti_Logo.png)
 
-https://vuniti.com
+# [vuniti.com](https://vuniti.com)
 The VuMos model series is engineered for "Inclusive Intelligence." Thanks to our proprietary .vum format optimization, our models deliver peak performance on professional workstations equipped with NVIDIA GPUs (CUDA-accelerated) while maintaining exceptional fluidness on mainstream PCs with Integrated Graphics (Intel/AMD/Apple Silicon).
 
 Whether you are engaged in deep creation at your desk or executing complex tasks on the go via your mobile device, VuMos ensures a smooth and stable Agent collaboration experience. Every line of code executed and every spark of inspiration captured is accompanied by the empathetic warmth of VuNiti.
